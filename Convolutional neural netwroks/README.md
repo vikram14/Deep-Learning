@@ -5,3 +5,5 @@ CNNs have different architectures, example: AlexNet, VGG, GoogLeNet, ResNet and 
 
 The following set of programs are implementations of some of the more common applications of CNNs
 
+                                             
+                                             ![CNN](../images/CNN.png)
