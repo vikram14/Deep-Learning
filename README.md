@@ -4,4 +4,4 @@ Deep Learning is a subset of a much larger set of learning methods(Supervised an
 
 In this repository we deal with only supervised learning algorithms for networks ranging from regular feedforward neural networks to convolutional neural networks (CNNs) and recurrent neural networks(RNNs).
 
-![illustration](Deep-Learning/images/DL1)
+![illustration](Deep-Learning/images/DL1.png)
