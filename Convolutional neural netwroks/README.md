@@ -3,5 +3,5 @@ A CNN is a type of a  deep learning network primarily used for tasks involving i
 
 CNNs have different architectures, example: AlexNet, VGG, GoogLeNet, ResNet and U-net. Studying all of these architectures gives you an intuition about when and what kind of architectures and hyperparameters are used for certain tasks. 
 
-The following set of programs are some of more common applications of CNNs
+The following set of programs are implementations of some of the more common applications of CNNs
 
