@@ -1,2 +1,2 @@
-# Deep-Learning-Projects
-This is a collection of programs coded as a part of the DeepLearning.ai specialization course
+# Sequence models, RNNs and Natural Language Processing
+RNNs are a class of neural networks used for learning tasks that involve temporary data such as speech recognition, machine transaltion, sentiment analysis, language models, etc. An important feature that distinguishes RNNs from regular feedforward neural networks is parameter sharing, which is  an effective way of leveraging the relationship between one input item and its surrounding neighbors in a more intrinsic fashion compared to a vanilla neural network.
